@@ -33,7 +33,7 @@ Use Pythagorean's theorem to measure the distance between points.
 
 >>> a = Point2D(4, 5)
 >>> origin = Point2D(0, 0)
->>> "%.2f" % a.distance(0, 0)
+>>> "%.2f" % a.distance(origin)
 '6.40'
 
 

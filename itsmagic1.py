@@ -12,7 +12,7 @@ you know about repr?
 
 >>> a = Point2D(4, 5)
 >>> print(a)
-'(4, 5)'
+(4, 5)
 >>> a
 <Point {x: 4, y: 5}>
 
